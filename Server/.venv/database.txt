@@ -1,0 +1,22 @@
+/nSS,Sun@mail.ru,fast,fracas
+ssa,ss@mal.ru,fsaf,fast
+ Name: ssa,
+ Email: ss@mal.ru,
+ Subject: fsaf,
+ Message: fast
+ Name: ssa,
+ Email: ss@mal.ru,
+ Subject: fsaf,
+ Message: fast
+ Name: ssa,
+ Email: ss@mal.ru,
+ Subject: fsaf,
+ Message: fastfs
+ Name: ssa,
+ Email: ss@mal.ru,
+ Subject: fsaf,
+ Message: fastfs
+ Name: ssa,
+ Email: ss@mal.ru,
+ Subject: fsaf,
+ Message: fastfs
